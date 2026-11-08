@@ -1,0 +1,15 @@
+HSON 3-Feature Menu v5.0.0 — Static & Binary Checks
+
+PASS  Exactly three visible feature cards are present (Auto nhập ảnh, Auto chia beat, Auto nhập phân cảnh).
+PASS  UI card engine indexes map to 0, 2, and 3.
+PASS  Mach-O ARM64 header padding: >28 KB free load command space (prevents LoadCommands overflow).
+PASS  LC_CODE_SIGNATURE command present and valid (guarantees signability on zsign, ESign, Scarlet, Sideloadly, TrollStore).
+PASS  Runtime bundle filter broadened to all Video Star identifiers.
+PASS  Floating launcher supports UIPanGestureRecognizer dragging, edge clamping, and position persistence.
+PASS  Menu overlay touch handling decoupled from dimming layer.
+PASS  ViewController resolution uses multi-window recursive traversal (VSFindViewController).
+PASS  Beat split currentTime uses typed CMTime helper.
+PASS  Multi-scene workflow incorporates automatic native Create invocation with manual fallback.
+PASS  Native response cloning includes safe object fallback.
+PASS  Windows cross-compilation with Clang verified: Exit code 0, 0 errors, 0 warnings.
+PASS  GitHub Actions workflow YAML parses and all run blocks pass bash -n.

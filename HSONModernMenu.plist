@@ -1,0 +1,12 @@
+{
+    Filter = {
+        Bundles = (
+            "com.frontierdesign.videostar",
+            "com.frontierdesign.videostar1",
+            "com.cameraxis.videostar"
+        );
+        Executables = (
+            "VideoStar"
+        );
+    };
+}
